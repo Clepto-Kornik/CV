@@ -1,0 +1,21 @@
+body {
+    background-color: #F4FCD9;
+}
+hr {
+    border-style: dotted none none;
+    height: 0px;
+    border-color: #C5D8A4;
+    border-width: 15px;
+    width: 10%;
+}
+.profile_image {
+    height: 200px
+}
+h3 {
+    color: #464E2E;
+}
+
+#name {
+    color: #464E2E;
+    font-family: "Georgia", serif;
+}
